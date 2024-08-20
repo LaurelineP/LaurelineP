@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 | Tech Stack   | Github Activities |
 | -------- | ------- |
-|  [![My Skills](https://skillicons.dev/icons?i=js,typescript)](https://skillicons.dev) <br> [![My Skills](https://skillicons.dev/icons?i=react,redux,express,mongodb,postgres)](https://skillicons.dev) <br>[![My Skills](https://skillicons.dev/icons?i=html,css,sass,vite,webpack)](https://skillicons.dev) |![Laureline's Stats](https://github-readme-stats.vercel.app/api?username=LaurelineP&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | 
+|  [![My Skills](https://skillicons.dev/icons?i=js,typescript)](https://skillicons.dev)<br> [![My Skills](https://skillicons.dev/icons?i=react,redux,express,mongodb,postgres)](https://skillicons.dev) <br>[![My Skills](https://skillicons.dev/icons?i=html,css,sass,vite,webpack,linux)](https://skillicons.dev) |![Laureline's Stats](https://github-readme-stats.vercel.app/api?username=LaurelineP&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | 
 
 
 
