@@ -36,5 +36,7 @@ Here are some ideas to get you started:
   - [Top FreeCodeCamp Contributors 2022](https://www.freecodecamp.org/news/freecodecamp-2022-top-contributors/)
 - 🌟 Talk Event at ZTM about contributions and open source
 - 🌟 Discord Server mentor role for ZTM ( ZeroToMastery by Andrei Neagoie )
-[![An image of @laurelinep's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/laurelinep)](https://holopin.io/@laurelinep)
+
+<img width=850 align="center" src="https://holopin.me/laurelinep" alt="An image of @laurelinep's Holopin badges, which is a link to view their full Holopin profile"/>
+
   
