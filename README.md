@@ -12,5 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# HacktoberFest 10
+
+
+
+| Tech Stack   | Github Activities |
+| -------- | ------- |
+|  [![My Skills](https://skillicons.dev/icons?i=js,typescript)](https://skillicons.dev) <br> [![My Skills](https://skillicons.dev/icons?i=react,redux,express,mongodb,postgres)](https://skillicons.dev) <br>[![My Skills](https://skillicons.dev/icons?i=html,css,sass,vite,webpack)](https://skillicons.dev) |![Laureline's Stats](https://github-readme-stats.vercel.app/api?username=LaurelineP&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | 
+
+
+
+## 💻 Currently Diving into:
+- ✨ Python programming language - scripting, automation and server building
+- ✨ Shell scripting
+- ✨ Design System
+- ✨ Computer Science
+
+## 🏆 Achievements
+
+- 🌟 Hacktoberfest 10 - 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Contributor for : FCC, ZTM
+  - [Top FreeCodeCamp Contributors 2023](https://www.freecodecamp.org/news/top-open-source-contributors-2023/)
+  - [Top FreeCodeCamp Contributors 2022](https://www.freecodecamp.org/news/freecodecamp-2022-top-contributors/)
+- 🌟 Talk Event at ZTM about contributions and open source
+- 🌟 Discord Server mentor role for ZTM ( ZeroToMastery by Andrei Neagoie )
 [![An image of @laurelinep's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/laurelinep)](https://holopin.io/@laurelinep)
+  
