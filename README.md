@@ -39,4 +39,10 @@ Here are some ideas to get you started:
 
 <img width=850 align="center" src="https://holopin.me/laurelinep" alt="An image of @laurelinep's Holopin badges, which is a link to view their full Holopin profile"/>
 
-  
+## 📚👓 Tech Resources
+ELearning  and/or being aware of tech news
+
+| ELearning   | Readable and watchable |
+| -------- | ------- |
+| 🔹 ZTM <br> 🔹 Frontend Master <br> 🔹 Frontend Master <br> 🔹 Boot.dev <br> 🔹 PluralSight <br> 🔹 Freecodecamp <br> 🔹 Udemy <br> 🔹 Coursera | 🔹 Tech books <br> 🔹 Medium <br> 🔹 dev.to <br> 🔹 Youtube / Twitch ( Fireship, The Primeagen, Kent C.Dodd, Cassidoo, Dan Ahbramov, ... ) |
+
