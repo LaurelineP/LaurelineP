@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurelineP&layout=compact&card_width=700" />
 
-[![LaurelineP's GitHub | Languages Over Time](https://stats.quira.sh/LaurelineP/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=LaurelineP)
-
 
 ## 💻 Currently Diving into:
 - ✨ Python programming language - scripting, automation and server building
