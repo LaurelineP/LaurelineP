@@ -24,17 +24,17 @@ Here are some ideas to get you started:
 
 
 ## 💻 Currently Diving into:
-- ✨ Python programming language - scripting, automation and server building
-- ✨ Shell scripting
-- ✨ Design System
-- ✨ Computer Science
+- ✨ C and Memory Management
+- ✨ Node in parallel of C Management
+- ✨ Data Structure & Algo
 
 ## 🏆 Achievements
-
+- 🌟 Hacktoberfest 11 - 2024 - Contributed to open source projects and celebrated the spirit of collaboration
 - 🌟 Hacktoberfest 10 - 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 - 🌟 Contributor for : FCC, ZTM
-  - [Top FreeCodeCamp Contributors 2023](https://www.freecodecamp.org/news/top-open-source-contributors-2023/)
-  - [Top FreeCodeCamp Contributors 2022](https://www.freecodecamp.org/news/freecodecamp-2022-top-contributors/)
+  - [Amongst Top FreeCodeCamp Contributors 2024]https://www.freecodecamp.org/news/freecodecamps-top-open-source-contributors-of-2024/
+  - [Amongst Top FreeCodeCamp Contributors 2023](https://www.freecodecamp.org/news/top-open-source-contributors-2023/)
+  - [Amongst Top FreeCodeCamp Contributors 2022](https://www.freecodecamp.org/news/freecodecamp-2022-top-contributors/)
 - 🌟 Talk Event at ZTM about contributions and open source
 - 🌟 Discord Server mentor role for ZTM ( ZeroToMastery by Andrei Neagoie )
 
@@ -45,5 +45,5 @@ ELearning  and/or being aware of tech news
 
 | ELearning   | Readable and watchable |
 | -------- | ------- |
-| 🔹 ZTM <br> 🔹 Frontend Master <br> 🔹 Frontend Master <br> 🔹 Boot.dev <br> 🔹 PluralSight <br> 🔹 Freecodecamp <br> 🔹 Udemy <br> 🔹 Coursera | 🔹 Tech books <br> 🔹 Medium <br> 🔹 dev.to <br> 🔹 Youtube / Twitch ( Fireship, The Primeagen, Kent C.Dodd, Cassidoo, Dan Ahbramov, ... ) |
+| 🔹 ZTM <br> 🔹 Frontend Master <br> 🔹 Frontend Master <br> 🔹 Boot.dev <br> 🔹 PluralSight <br> 🔹 Freecodecamp <br> 🔹 Udemy <br> 🔹 Coursera | 🔹 Tech books <br> 🔹 Medium <br> 🔹 dev.to <br> 🔹 Youtube / Twitch ( Fireship, The Primeagen, Kent C.Dodd, Cassidoo, Dan Ahbramov, O'Reilly, SitePoint, Robin Wieruch ... ) |
 
