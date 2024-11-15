@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🌟 Hacktoberfest 11 - 2024 - Contributed to open source projects and celebrated the spirit of collaboration
 - 🌟 Hacktoberfest 10 - 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 - 🌟 Contributor for : FCC, ZTM
-  - [Amongst Top FreeCodeCamp Contributors 2024]https://www.freecodecamp.org/news/freecodecamps-top-open-source-contributors-of-2024/
+  - [Amongst Top FreeCodeCamp Contributors 2024](https://www.freecodecamp.org/news/freecodecamps-top-open-source-contributors-of-2024/)
   - [Amongst Top FreeCodeCamp Contributors 2023](https://www.freecodecamp.org/news/top-open-source-contributors-2023/)
   - [Amongst Top FreeCodeCamp Contributors 2022](https://www.freecodecamp.org/news/freecodecamp-2022-top-contributors/)
 - 🌟 Talk Event at ZTM about contributions and open source
