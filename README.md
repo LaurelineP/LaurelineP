@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - ✨ C and Memory Management
 - ✨ Node in parallel of C Management
 - ✨ Data Structure & Algo
+- ✨ Meta Frameworks
 
 ## 🏆 Achievements
 - 🌟 Hacktoberfest 11 - 2024 - Contributed to open source projects and celebrated the spirit of collaboration
@@ -45,5 +46,5 @@ ELearning  and/or being aware of tech news
 
 | ELearning   | Readable and watchable |
 | -------- | ------- |
-| 🔹 ZTM <br> 🔹 Frontend Master <br> 🔹 Frontend Master <br> 🔹 Boot.dev <br> 🔹 PluralSight <br> 🔹 Freecodecamp <br> 🔹 Udemy <br> 🔹 Coursera | 🔹 Tech books <br> 🔹 Medium <br> 🔹 dev.to <br> 🔹 Youtube / Twitch ( Fireship, The Primeagen, Kent C.Dodd, Cassidoo, Dan Ahbramov, O'Reilly, SitePoint, Robin Wieruch ... ) |
+| 🔹 ZTM <br> 🔹 Frontend Master <br> 🔹 Frontend Master <br> 🔹 Boot.dev <br> 🔹 PluralSight <br> 🔹 Freecodecamp <br> 🔹 Udemy <br> 🔹 Coursera | 🔹 Tech books <br> 🔹 Medium <br> 🔹 dev.to <br> 🔹 Youtube / Twitch <br> ( Fireship, The Primeagen, Kent C.Dodd, Cassidoo, Dan Ahbramov, O'Reilly, SitePoint, Robin Wieruch ... ) |
 
