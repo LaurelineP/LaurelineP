@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![git-wrapped-LaurelineP](https://github.com/user-attachments/assets/510e1b71-2d07-47eb-bb0a-d9679c003efc)
+
 
 | Tech Stack   | Github Activities |
 | -------- | ------- |
