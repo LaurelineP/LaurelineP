@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 - 🌟 Talk Event at ZTM about contributions and open source
 - 🌟 Discord Server mentor role for ZTM ( ZeroToMastery by Andrei Neagoie )
 
-<img width=850 align="center" src="https://holopin.me/laurelinep" alt="An image of @laurelinep's Holopin badges, which is a link to view their full Holopin profile"/>
 
 ## 📚👓 Tech Resources
 ELearning  and/or being aware of tech news
