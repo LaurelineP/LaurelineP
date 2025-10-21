@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![An image of @laurelinep's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/laurelinep)](https://holopin.io/@laurelinep)
 ![git-wrapped-LaurelineP](https://github.com/user-attachments/assets/510e1b71-2d07-47eb-bb0a-d9679c003efc)
 
 
