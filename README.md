@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- [![https://holopin.me/laurelinep](https://holopin.me/laurelinep)](https://holopin.io/@laurelinep)] -->
 [![An image of @laurelinep's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/laurelinep)](https://holopin.io/@laurelinep)
-![git-wrapped-LaurelineP](https://github.com/user-attachments/assets/510e1b71-2d07-47eb-bb0a-d9679c003efc)
+
+
 
 
 | Tech Stack   | Github Activities |
@@ -32,14 +35,19 @@ Here are some ideas to get you started:
 - ✨ Meta Frameworks
 
 ## 🏆 Achievements
-- 🌟 Hacktoberfest 11 - 2024 - Contributed to open source projects and celebrated the spirit of collaboration
-- 🌟 Hacktoberfest 10 - 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Hacktoberfest Participations: Contributed to open source projects and celebrated the spirit of collaboration
+  - Hacktoberfest 12 - 2025
+  - Hacktoberfest 11 - 2024
+  - Hacktoberfest 10 - 2023 
 - 🌟 Contributor for : FCC, ZTM
+  - [Amongst Top FreeCodeCamp Contributors 2025](https://www.freecodecamp.org/news/freecodecamp-top-open-source-contributors-2025/)
   - [Amongst Top FreeCodeCamp Contributors 2024](https://www.freecodecamp.org/news/freecodecamps-top-open-source-contributors-of-2024/)
   - [Amongst Top FreeCodeCamp Contributors 2023](https://www.freecodecamp.org/news/top-open-source-contributors-2023/)
   - [Amongst Top FreeCodeCamp Contributors 2022](https://www.freecodecamp.org/news/freecodecamp-2022-top-contributors/)
 - 🌟 Talk Event at ZTM about contributions and open source
-- 🌟 Discord Server mentor role for ZTM ( ZeroToMastery by Andrei Neagoie )
+- 🌟 Discord Server mentor role for ZTM ( ZeroToMastery by Andrei Neagoie ): meant to help and guide students with their projects.
+  Doing few pair-reviews, code reviews and guiding students to understand what they are learning.
+
 
 
 ## 📚👓 Tech Resources
