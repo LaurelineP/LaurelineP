@@ -55,5 +55,5 @@ ELearning  and/or being aware of tech news
 
 | ELearning   | Readable and watchable |
 | -------- | ------- |
-| 🔹 ZTM <br> 🔹 Frontend Master <br> 🔹 Frontend Master <br> 🔹 Boot.dev <br> 🔹 PluralSight <br> 🔹 Freecodecamp <br> 🔹 Udemy <br> 🔹 Coursera | 🔹 Tech books <br> 🔹 Medium <br> 🔹 dev.to <br> 🔹 Youtube / Twitch <br> ( Fireship, The Primeagen, Kent C.Dodd, Cassidoo, Dan Ahbramov, O'Reilly, SitePoint, Robin Wieruch ... ) |
+| 🔹 ZTM <br> 🔹 Frontend Master <br> 🔹 KodeKloud <br> 🔹 Codemia.io <br> 🔹 Boot.dev <br> 🔹 PluralSight <br> 🔹 Freecodecamp <br> 🔹 Udemy <br> 🔹 Coursera | 🔹 Tech books <br> 🔹 Medium <br> 🔹 dev.to <br> 🔹 Youtube / Twitch <br> ( Fireship, The Primeagen, Kent C.Dodd, Cassidoo, Dan Ahbramov, O'Reilly, SitePoint, Robin Wieruch ... ) |
 
